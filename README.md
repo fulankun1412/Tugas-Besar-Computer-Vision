@@ -4,7 +4,7 @@ Tugas Besar ini di kerjakan untuk memenuhi Tugas Besar Computer Vision
 
 Dataset menggunakan Bahasa American Sign Language dengan menggunakan CNN
 
-Penggunaan : di cmd >>>> python run_me.py
+
 
 Requirement :
 
