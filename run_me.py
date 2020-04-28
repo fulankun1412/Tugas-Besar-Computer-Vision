@@ -5,6 +5,8 @@ from skimage.transform import resize, pyramid_reduce
 import PIL
 from PIL import Image
 
+#Versi FINAL
+
 model = load_model('CNNmodel.h5')
 
 
