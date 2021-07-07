@@ -1,6 +1,6 @@
 # Tugas Besar Computer Vision Sign Language
 
-Tugas Besar ini di kerjakan untuk memenuhi Tugas Besar Computer Vision
+Tugas Besar ini di kerjakan untuk memenuhi Tugas Besar kelas Computer Vision, Teknik Komputer, Universitas Telkom.
 
 Dataset menggunakan Bahasa American Sign Language dengan menggunakan CNN
 
